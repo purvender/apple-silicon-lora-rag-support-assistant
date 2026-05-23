@@ -1,0 +1,6 @@
+Cancellation and Data Retention Policy
+
+To cancel, go to Settings → Billing and click Cancel plan. Access continues until the end of the current billing period; you are not charged again unless you reactivate.
+After cancellation, the workspace stays in read-only mode for 30 days. During that period you can export data from Settings → Data export.
+After 30 days, workspace data is deleted from AcornDesk systems.
+For help, contact support via in-app chat or email support@acorndesk.example with your workspace name.

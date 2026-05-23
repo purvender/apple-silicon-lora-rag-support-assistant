@@ -1,0 +1,4 @@
+Contact Support
+
+If your question is not answered by the help center, contact AcornDesk support using the in-app chat or email support@acorndesk.example.
+Include your workspace name and a short description of the issue so we can help quickly.

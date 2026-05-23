@@ -1,0 +1,7 @@
+Billing Policy
+
+Customers can update billing details from Settings → Billing.
+Invoices are available at Settings → Billing → Invoices. Each invoice can be viewed in the browser or downloaded as a PDF.
+The billing contact email can be changed under Settings → Billing → Billing contact email. Future invoices and billing notifications go to that address.
+Customers can switch from monthly to annual billing under Settings → Billing by selecting an annual plan at the next renewal.
+Failed payments may result in account downgrade after the grace period. Update the payment method under Settings → Billing and retry the charge.

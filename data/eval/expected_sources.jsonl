@@ -1,0 +1,10 @@
+{"question": "I forgot my password and the reset email never arrived.", "expected_source": "passwords.txt"}
+{"question": "Can you extend my AcornDesk trial by one week?", "expected_source": "trial_extensions.txt"}
+{"question": "Can I get a refund on my annual plan if we decide not to use AcornDesk?", "expected_source": "refunds.txt"}
+{"question": "How do I download past invoices for my finance team?", "expected_source": "billing.txt"}
+{"question": "Where can I change the billing contact email address?", "expected_source": "billing.txt"}
+{"question": "How do I invite a new teammate and control their permissions?", "expected_source": "team_permissions.txt"}
+{"question": "I want to cancel but keep access until the end of this billing period.", "expected_source": "cancellation.txt"}
+{"question": "Can I switch from monthly to annual billing?", "expected_source": "billing.txt"}
+{"question": "What happens to my data after I cancel my subscription?", "expected_source": "cancellation.txt"}
+{"question": "How do I contact AcornDesk support if none of this solves my problem?", "expected_source": "support.txt"}

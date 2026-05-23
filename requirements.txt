@@ -1,0 +1,5 @@
+# Python 3.9+ on macOS (Apple Silicon). Tested with 3.9.6.
+chromadb==1.5.9
+mlx==0.29.3
+mlx-lm==0.29.1
+ollama==0.6.2

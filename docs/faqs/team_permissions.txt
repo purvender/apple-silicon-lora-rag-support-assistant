@@ -1,0 +1,6 @@
+Team and Permissions Policy
+
+Invite teammates from Settings → Team → Invite teammate. Enter their email, choose a role (Agent, Admin, or Viewer), and send the invite.
+Roles control permissions for tickets, settings, and reports. Only Admins can access billing settings.
+During a free trial you can invite up to 5 teammates. After upgrading, add more seats from Settings → Team.
+To remove a teammate, open Settings → Team, select the user, and choose Deactivate user.

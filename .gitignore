@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+chroma/
+compare_results.md
+outputs/
+.env
+*.log
+adapters-llama3-1b/[0-9]*_adapters.safetensors

@@ -1,0 +1,5 @@
+Account Setup
+
+Users can create an account with work email and password.
+Email verification may be required before first login.
+Team invites can be sent from the workspace settings page.

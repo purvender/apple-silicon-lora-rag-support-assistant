@@ -1,0 +1,5 @@
+Trial Extension Policy
+
+Each account is eligible for one trial extension only.
+A trial may be extended by 7 days.
+Trial accounts can invite up to 5 teammates.
