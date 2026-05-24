@@ -67,7 +67,7 @@ Everything below is **in the repo** so a new user can clone and run without crea
 Use the adapters and FAQs already in the repo. You do **not** need to train.
 
 ```bash
-git clone https://github.com/purvenderhooda/apple-silicon-lora-rag-support-assistant.git
+git clone https://github.com/purvender/apple-silicon-lora-rag-support-assistant.git
 cd apple-silicon-lora-rag-support-assistant
 
 ollama pull nomic-embed-text
