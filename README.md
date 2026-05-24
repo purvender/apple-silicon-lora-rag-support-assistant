@@ -23,8 +23,10 @@ This repo demonstrates a fictional **AcornDesk** support bot that can:
 
 ```bash
 ollama pull nomic-embed-text
+
 python3 -m venv .venv
 source .venv/bin/activate
+
 pip install -r requirements.txt
 ```
 
@@ -71,8 +73,10 @@ git clone https://github.com/purvender/apple-silicon-lora-rag-support-assistant.
 cd apple-silicon-lora-rag-support-assistant
 
 ollama pull nomic-embed-text
+
 python3 -m venv .venv
 source .venv/bin/activate
+
 pip install -r requirements.txt
 
 # Build the FAQ search index once (or after you edit docs/faqs/)
@@ -205,11 +209,12 @@ Uses all lines in `data/eval/test_prompts.txt`:
 | `tuned_rag` | Yes | Yes |
 
 ```bash
-# ~8+ minutes for 10 questions × 4 modes
+# ~8+ minutes for 10 questions × 4 modes on M1/M2-class Apple Silicon
 python scripts/eval_compare.py -o compare_results.md
 ```
 
-Progress on **stderr**; report on **stdout** unless `-o` is set. See `docs/example_compare_results.md` for a short committed sample.
+Progress on **stderr**; report on **stdout** unless `-o` is set.  
+For a sample four-mode run, see `docs/example_compare_results.md`.
 
 Fast retrieval-only check (no MLX, ~seconds):
 
